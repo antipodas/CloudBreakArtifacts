@@ -10,7 +10,7 @@ if len(sys.argv) < 2:
 dps_url = 'https://' + sys.argv[1]
 
 dps_admin_user = 'admin'
-dps_admin_password = 'admin'
+dps_admin_password = 'admin-password1'
 ambari_admin_user = 'admin'
 ambari_admin_password = 'admin-password1'
 ranger_admin_user = 'admin'
